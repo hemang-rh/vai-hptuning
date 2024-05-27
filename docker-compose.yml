@@ -1,0 +1,6 @@
+services:
+  app:
+    build: ./
+    # command: >
+    #  bash -c 'python main.py'
+    command: python main.py

@@ -1,0 +1,2 @@
+-i https://pypi.org/simple
+cloudml-hypertune==0.1.0.dev6

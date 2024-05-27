@@ -1,5 +1,3 @@
-# vai-hptuning
-
 ### Useful commands
 
 ```

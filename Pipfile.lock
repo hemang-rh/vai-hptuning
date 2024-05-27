@@ -1,0 +1,28 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "4e65a9d0585ef638ec1f421890ed0fc391328132177c19dc02547c713d466afd"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.12"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "cloudml-hypertune": {
+            "hashes": [
+                "sha256:b96a5a203ecf7b3302e94f63977d7293fe21c696bea27e35667de82599696a89"
+            ],
+            "index": "pypi",
+            "version": "==0.1.0.dev6"
+        }
+    },
+    "develop": {}
+}
